@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+	<TargetDirectory>D:\Z1\Release\</TargetDirectory>
+	<SourceDirectory>D:\共享更新\Release\</SourceDirectory>
+
+	<Files>
+		<File>HMSLaser.dll</File>
+		<File>HMSLaser.exe</File>
+		<File>HMSDrawTool.exe</File>
+		<File>Hardware.dll</File>
+	</Files>
+	<Tables>
+		<Table>UserData</Table>
+		<Table>Product</Table>
+		<Table>Server</Table>
+		<Table>CutLife</Table>
+	</Tables>
+</Config>
